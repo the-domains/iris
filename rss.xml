@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Iris]]></title>
         <description><![CDATA[Iris]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iris/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 05:35:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 19:59:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iris/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Pingala</p>]]></description>
+            <link>https://thegrid.ai/iris/pingala/index.html</link>
+            <guid isPermaLink="false">a139312f-9e26-4caf-a742-ddf610afb302</guid>
+            <pubDate>Mon, 02 May 2016 19:59:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iris]]></title>
             <description><![CDATA[<article><h1>Iris</h1><p>Iris came from Pandora's box. </p></article>]]></description>
-            <link>undefinediris/index.html</link>
+            <link>https://thegrid.ai/iris/iris/index.html</link>
             <guid isPermaLink="false">a774979f-4b1d-4d9d-a217-f2a509fbea47</guid>
             <pubDate>Sun, 27 Mar 2016 05:35:56 GMT</pubDate>
         </item>
